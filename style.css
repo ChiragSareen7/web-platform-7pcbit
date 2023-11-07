@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+  font-family: poppins;
+}
+#html{
+
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 15px;
+
+}
+#css{
+  
+text-align: justify;
+color: red;
+  }
+#js{
+  
+  color: green;
+  text-transform: capitalize;
+}  
